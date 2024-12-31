@@ -1,2 +1,2 @@
-piper-phonemize @ git+https://github.com/marion-santiago/piper-phonemize.git
+piper-phonemize-fork
 onnxruntime>=1.11.0,<2
